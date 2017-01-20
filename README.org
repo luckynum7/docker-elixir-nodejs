@@ -2,7 +2,7 @@
 #+DESCRIPTION: Docker image build w/ asdf-vm
 #+KEYWORDS:    asdf, nodejs
 #+Repository:  https://github.com/luckynum7/docker-elixir-nodejs
-#+Docker Hub:  https://hub.docker.com/r/timefairy/docker-elixir-nodejs/
+#+DOCKER+HUB:  https://hub.docker.com/r/timefairy/docker-elixir-nodejs/
 #+OPTIONS:     toc:nil ^:{}
 
 * docker-elixir-nodejs
