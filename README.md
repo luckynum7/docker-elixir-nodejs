@@ -3,6 +3,12 @@
 Docker image for CI, build w/ `asdf, erlang, elixir`, `nodejs`
 
 
+## Supported tags and respective `Dockerfile` links
+
+-   `lts` [lts/Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/lts/Dockerfile)
+-   `latest` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/Dockerfile)
+
+
 ## Try it
 
 ```bash
