@@ -1,0 +1,17 @@
+#+TITLE:       docker-elixir-nodejs
+#+DESCRIPTION: Docker image build w/ asdf-vm
+#+KEYWORDS:    asdf, nodejs
+#+Repository:  https://github.com/luckynum7/docker-elixir-nodejs
+#+OPTIONS:     toc:nil ^:{}
+
+* docker-elixir-nodejs
+
+Docker image for CI, build w/ ~asdf, erlang, elixir~, ~nodejs~
+
+** Try it
+
+#+BEGIN_SRC bash
+docker run -ti --rm timefairy/docker-elixir-nodejs:latest
+#+END_SRC
+
+** References
