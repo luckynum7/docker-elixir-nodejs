@@ -1,4 +1,4 @@
-FROM timefairy/docker-elixir-nodejs:latest
+FROM timefairy/docker-asdf-elixir:latest
 
 RUN /bin/bash -c "asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git"
 
