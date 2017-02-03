@@ -1,8 +1,8 @@
 FROM timefairy/docker-asdf-elixir:latest
 
 RUN /bin/bash -c "asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git && \
-                  asdf install nodejs 6.9.4 && \
+                  asdf install nodejs 6.9.5 && \
                   rm -rf  /tmp/* && \
-                  asdf global nodejs 6.9.4"
+                  asdf global nodejs 6.9.5"
 
 # CMD ["/bin/bash"]
