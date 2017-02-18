@@ -1,6 +1,6 @@
 # docker-elixir-nodejs
 
-Docker image for CI, build w/ `asdf, erlang, elixir`, `nodejs` [timefairy/docker-elixir-nodejs](https://hub.docker.com/r/timefairy/docker-elixir-nodejs/)
+Docker image for CI, build w/ `asdf, erlang, elixir, nodejs` [timefairy/docker-elixir-nodejs](https://hub.docker.com/r/timefairy/docker-elixir-nodejs/)
 
 
 ## Supported tags and respective `Dockerfile` links
