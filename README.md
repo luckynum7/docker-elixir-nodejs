@@ -9,6 +9,11 @@ Docker image for CI, build w/ `asdf, erlang, elixir, nodejs` [timefairy/docker-e
 -   `latest` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/Dockerfile)
 
 
+## Pre-installed globally
+
+1.  `bower`
+
+
 ## Try it
 
 ```bash
