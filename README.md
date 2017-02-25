@@ -7,6 +7,8 @@ Docker image for CI, build w/ `asdf, erlang, elixir, nodejs` [timefairy/docker-e
 
 -   `lts` [lts/Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/lts/Dockerfile)
 -   `latest` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/Dockerfile)
+-   `7.6.0` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/7.6.0/Dockerfile)
+-   `lts-6.10.0` [lts/Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/lts-6.10.0/lts/Dockerfile)
 
 
 ## Pre-installed globally
@@ -24,3 +26,4 @@ docker run -ti --rm timefairy/docker-elixir-nodejs:latest
 ## References
 
 1.  <https://github.com/asdf-vm/asdf-nodejs>
+2.  <https://github.com/nodejs/docker-node>
