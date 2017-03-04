@@ -13,6 +13,7 @@ Docker image for CI, build w/ ~asdf, erlang, elixir, nodejs~ [[https://hub.docke
 
    - ~latest~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/master/Dockerfile][Dockerfile]]
    - ~lts~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/master/lts/Dockerfile][lts/Dockerfile]]
+   - ~7.7.1~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.1/Dockerfile][Dockerfile]]
    - ~7.7.0~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.0/Dockerfile][Dockerfile]]
    - ~7.6.0~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/7.6.0/Dockerfile][Dockerfile]]
    - ~lts-6.10.0~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/lts-6.10.0/lts/Dockerfile][lts/Dockerfile]]
