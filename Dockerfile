@@ -17,8 +17,8 @@ RUN set -ex \
   done
 
 RUN /bin/bash -c "asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git && \
-                  asdf install nodejs 7.7.1 && \
-                  asdf global nodejs 7.7.1 && \
+                  asdf install nodejs 7.7.2 && \
+                  asdf global nodejs 7.7.2 && \
                   npm install -g bower && \
                   rm -rf /tmp/*"
 

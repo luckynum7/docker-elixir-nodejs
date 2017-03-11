@@ -7,8 +7,7 @@ Docker image for CI, build w/ `asdf, erlang, elixir, nodejs` [timefairy/docker-e
 
 -   `latest` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/Dockerfile)
 -   `lts` [lts/Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/master/lts/Dockerfile)
--   `7.7.1` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.1/Dockerfile)
--   `7.7.0` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.0/Dockerfile)
+-   `7.7.2` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.2/Dockerfile)
 -   `7.6.0` [Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/7.6.0/Dockerfile)
 -   `lts-6.10.0` [lts/Dockerfile](https://github.com/luckynum7/docker-elixir-nodejs/blob/lts-6.10.0/lts/Dockerfile)
 
