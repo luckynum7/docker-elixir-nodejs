@@ -2,7 +2,7 @@
 #+DESCRIPTION: Docker image build w/ asdf-vm
 #+KEYWORDS:    asdf, nodejs
 #+Repository:  https://github.com/luckynum7/docker-elixir-nodejs
-#+DOCKER+HUB:  https://hub.docker.com/r/timefairy/docker-elixir-nodejs/
+#+DOCKERHUB:   https://hub.docker.com/r/timefairy/docker-elixir-nodejs/
 #+OPTIONS:     toc:nil ^:{}
 
 * docker-elixir-nodejs
@@ -13,9 +13,9 @@ Docker image for CI, build w/ ~asdf, erlang, elixir, nodejs~ [[https://hub.docke
 
    - ~latest~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/master/Dockerfile][Dockerfile]]
    - ~lts~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/master/lts/Dockerfile][lts/Dockerfile]]
-   - ~7.7.3~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.3/Dockerfile][Dockerfile]]
+   - ~7.7.4~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/7.7.4/Dockerfile][Dockerfile]]
    - ~7.6.0~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/7.6.0/Dockerfile][Dockerfile]]
-   - ~lts-6.10.0~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/lts-6.10.0/lts/Dockerfile][lts/Dockerfile]]
+   - ~lts-6.10.1~ [[https://github.com/luckynum7/docker-elixir-nodejs/blob/lts-6.10.1/lts/Dockerfile][lts/Dockerfile]]
 
 ** Pre-installed globally
    1. ~bower~
